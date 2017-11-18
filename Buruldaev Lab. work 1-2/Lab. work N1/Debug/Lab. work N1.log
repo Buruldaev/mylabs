@@ -1,0 +1,5 @@
+﻿  LabworkN1.cpp
+c:\users\админ\source\repos\buruldaev lab. work 1\lab. work n1\labworkn1.cpp(20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\админ\source\repos\buruldaev lab. work 1\lab. work n1\labworkn1.cpp(21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Lab. work N1.vcxproj -> C:\Users\Админ\source\repos\Buruldaev Lab. work 1\Debug\Lab. work N1.exe
+  Lab. work N1.vcxproj -> C:\Users\Админ\source\repos\Buruldaev Lab. work 1\Debug\Lab. work N1.pdb (Partial PDB)
