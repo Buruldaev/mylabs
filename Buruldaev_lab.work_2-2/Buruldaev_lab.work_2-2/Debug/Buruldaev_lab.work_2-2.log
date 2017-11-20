@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\админ\source\repos\buruldaev_lab.work_2-2\buruldaev_lab.work_2-2\source.cpp(17): warning C4305: инициализация: усечение из "int" в "float"
+c:\users\админ\source\repos\buruldaev_lab.work_2-2\buruldaev_lab.work_2-2\source.cpp(18): warning C4305: инициализация: усечение из "int" в "float"
+c:\users\админ\source\repos\buruldaev_lab.work_2-2\buruldaev_lab.work_2-2\source.cpp(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\админ\source\repos\buruldaev_lab.work_2-2\buruldaev_lab.work_2-2\source.cpp(31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Buruldaev_lab.work_2-2.vcxproj -> C:\Users\Админ\source\repos\Buruldaev_lab.work_2-2\Debug\Buruldaev_lab.work_2-2.exe
+  Buruldaev_lab.work_2-2.vcxproj -> C:\Users\Админ\source\repos\Buruldaev_lab.work_2-2\Debug\Buruldaev_lab.work_2-2.pdb (Partial PDB)
